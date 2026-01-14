@@ -1,18 +1,109 @@
-# 💫 About Me:
-🔭 I’m currently working on<br><br>Cyber Security labs<br><br>Web & Network Security basics<br><br>College mini projects<br><br>👯 I’m looking to collaborate on<br><br>Ethical Hacking projects<br><br>CTF challenges<br><br>Web development projects<br><br>🤝 I’m looking for help with<br><br>Advanced penetration testing<br><br>Real-world security scenarios<br><br>🌱 I’m currently learning<br><br>Kali Linux<br><br>Ethical Hacking<br><br>Networking & Linux commands<br><br>💬 Ask me about<br><br>Cyber Security basics<br><br>Kali Linux tools<br><br>College tech projects<br><br>⚡ Fun fact<br><br>I love exploring hacking labs and learning through practice 😄
+<h1 align="center">Hi 👋, I'm Sumit Ubale</h1>
+<h3 align="center">Cyber Security Enthusiast | Ethical Hacking Learner | Tech Explorer</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sumit._.ubale) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sumit-ubale1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sumitubale66@gmail.com) 
-
-# 💻 Tech Stack:
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sumit-Ubale&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sumit-Ubale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Ubale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://instagram.com/sumit._.ubale">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/sumit-ubale1">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:sumitubale66@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sumit-Ubale&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 💫 About Me
+
+🔐 Passionate about **Cyber Security**, ethical hacking, and hands-on learning through labs and challenges.  
+I enjoy breaking things to understand how to secure them better.
+
+<details>
+<summary>🔭 <b>Currently Working On</b></summary>
+
+- Cyber Security labs  
+- Web & Network Security fundamentals  
+- College mini projects  
+
+</details>
+
+<details>
+<summary>👯 <b>Looking to Collaborate On</b></summary>
+
+- Ethical Hacking projects  
+- CTF challenges  
+- Web development projects  
+
+</details>
+
+<details>
+<summary>🤝 <b>Looking for Help With</b></summary>
+
+- Advanced penetration testing  
+- Real-world security scenarios  
+
+</details>
+
+<details>
+<summary>🌱 <b>Currently Learning</b></summary>
+
+- Kali Linux  
+- Ethical Hacking  
+- Networking & Linux commands  
+
+</details>
+
+<details>
+<summary>💬 <b>Ask Me About</b></summary>
+
+- Cyber Security basics  
+- Kali Linux tools  
+- College tech projects  
+
+</details>
+
+<details>
+<summary>⚡ <b>Fun Fact</b></summary>
+
+I love exploring hacking labs and learning by breaking & fixing systems 😄  
+
+</details>
+
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io"/>
+  <img src="https://img.shields.io/badge/Apache-%23D42029?style=for-the-badge&logo=apache&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-black?style=for-the-badge&logo=splunk"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sumit-Ubale&theme=dark&hide_border=false"/>
+  <br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Sumit-Ubale&theme=dark&hide_border=false"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sumit-Ubale&theme=dark&layout=compact"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Sumit-Ubale&icon=0&color=0"/>
+</p>
+
+---
+
+⭐ *If you like my profile, feel free to connect or collaborate!*  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
